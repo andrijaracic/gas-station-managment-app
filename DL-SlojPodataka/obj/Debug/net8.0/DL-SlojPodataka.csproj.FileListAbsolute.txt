@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\bin\Debug\net8.0\DL-SlojPodataka.deps.json
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\bin\Debug\net8.0\DL-SlojPodataka.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\bin\Debug\net8.0\DL-SlojPodataka.pdb
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\bin\Debug\net8.0\BenzinskaPumpa.Shared.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\bin\Debug\net8.0\BenzinskaPumpa.Shared.pdb
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\obj\Debug\net8.0\DL-SlojPodataka.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\obj\Debug\net8.0\DL-SlojPodataka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\obj\Debug\net8.0\DL-SlojPodataka.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\obj\Debug\net8.0\DL-SlojPodataka.AssemblyInfo.cs
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\obj\Debug\net8.0\DL-SlojPodataka.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\obj\Debug\net8.0\DL-SlojP.C2EC5E44.Up2Date
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\obj\Debug\net8.0\DL-SlojPodataka.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\obj\Debug\net8.0\refint\DL-SlojPodataka.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\obj\Debug\net8.0\DL-SlojPodataka.pdb
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\DL-SlojPodataka\obj\Debug\net8.0\ref\DL-SlojPodataka.dll

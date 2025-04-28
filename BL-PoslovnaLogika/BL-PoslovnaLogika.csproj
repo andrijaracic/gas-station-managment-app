@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>BL_PoslovnaLogika</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BenzinskaPumpa.Shared\BenzinskaPumpa.Shared.csproj" />
+    <ProjectReference Include="..\DL-SlojPodataka\DL-SlojPodataka.csproj" />
+  </ItemGroup>
+
+</Project>

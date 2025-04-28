@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\bin\Debug\net8.0\BenzinskaPumpa.Shared.deps.json
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\bin\Debug\net8.0\BenzinskaPumpa.Shared.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\bin\Debug\net8.0\BenzinskaPumpa.Shared.pdb
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\obj\Debug\net8.0\BenzinskaPumpa.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\obj\Debug\net8.0\BenzinskaPumpa.Shared.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\obj\Debug\net8.0\BenzinskaPumpa.Shared.AssemblyInfo.cs
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\obj\Debug\net8.0\BenzinskaPumpa.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\obj\Debug\net8.0\BenzinskaPumpa.Shared.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\obj\Debug\net8.0\refint\BenzinskaPumpa.Shared.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\obj\Debug\net8.0\BenzinskaPumpa.Shared.pdb
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BenzinskaPumpa.Shared\obj\Debug\net8.0\ref\BenzinskaPumpa.Shared.dll

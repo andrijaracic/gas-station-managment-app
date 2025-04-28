@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\bin\Debug\net8.0\BL-PoslovnaLogika.deps.json
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\bin\Debug\net8.0\BL-PoslovnaLogika.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\bin\Debug\net8.0\BL-PoslovnaLogika.pdb
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\bin\Debug\net8.0\BenzinskaPumpa.Shared.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\bin\Debug\net8.0\DL-SlojPodataka.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\bin\Debug\net8.0\BenzinskaPumpa.Shared.pdb
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\bin\Debug\net8.0\DL-SlojPodataka.pdb
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\obj\Debug\net8.0\BL-PoslovnaLogika.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\obj\Debug\net8.0\BL-PoslovnaLogika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\obj\Debug\net8.0\BL-PoslovnaLogika.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\obj\Debug\net8.0\BL-PoslovnaLogika.AssemblyInfo.cs
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\obj\Debug\net8.0\BL-PoslovnaLogika.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\obj\Debug\net8.0\BL-Poslo.F9AD1345.Up2Date
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\obj\Debug\net8.0\BL-PoslovnaLogika.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\obj\Debug\net8.0\refint\BL-PoslovnaLogika.dll
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\obj\Debug\net8.0\BL-PoslovnaLogika.pdb
+C:\Users\User\source\repos\BenzinskaPumpaProjekat\BL-PoslovnaLogika\obj\Debug\net8.0\ref\BL-PoslovnaLogika.dll
